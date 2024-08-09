@@ -1,6 +1,6 @@
 # eNotes | JSP - Servlet
 - For Run this project you must be need Tomcat server v10.1 and JDK 11 or later
-- For start Tomcat server : double click on C:\Tomcat 10.1\bin\startup.bat file
+- For start Tomcat server : double click on `C:\Tomcat 10.1\bin\startup.bat` file
 - Download this zip file
 - Import project in eclipse,
   - Click on File menu
