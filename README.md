@@ -10,7 +10,7 @@
   - Select Project Directory or Zip file
   - Finish
 - Configure with Tomcat 10.1
-- Create Database name with `enotes`
+- Create Database  with name `enotes`
 - Load database file
 - Run as
   - run on server
