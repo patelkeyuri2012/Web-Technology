@@ -17,4 +17,4 @@
   - run on server
 
 - For download Tomcat :
-  - Click on `32-bit/64-bit Windows Service Installer` from following link (https://tomcat.apache.org/download-10.cgi)
+  - 
